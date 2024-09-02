@@ -17,8 +17,8 @@ Below, you can explore some of the projects I've worked on in each of these area
 - [Project 2: SQL Database Design](#) - Brief description of what the project is about.
 
 ### Power BI Projects
-- [Project 1: Sales Dashboard](#) - Brief description of what the project is about.
-- [Project 2: Financial Analysis](#) - Brief description of what the project is about.
+- [HR Turnover Analysis](https://github.com/DaCruzEmanuel/PowerBI_HR-TurnoverAnalysis)
+- [Project 2: Financial Analysis](#) 
 
 ### Excel Projects
 - [Project 1: Budget Tracker](#) - Brief description of what the project is about.
