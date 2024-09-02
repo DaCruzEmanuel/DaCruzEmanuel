@@ -24,9 +24,9 @@ Below, you can explore some of the projects I've worked on in each of these area
 - [Project 1: Budget Tracker](#) - Brief description of what the project is about.
 - [Project 2: Data Cleaning and Visualization](#) - Brief description of what the project is about.
 
-### VBA Projects
-- [Project 1: Automated Report Generation](#) - Brief description of what the project is about.
-- [Project 2: Task Automation in Excel](#) - Brief description of what the project is about.
+## 🚀 Certifications
+
+
 
 ## 📫 How to reach me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/emanuel-cruz-5869688a/) or [Email](mailto:Emanuelgcrz@gmail.com).
