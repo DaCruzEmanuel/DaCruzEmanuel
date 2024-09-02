@@ -12,13 +12,13 @@ Below, you can explore some of the projects I've worked on in each of these area
 
 ## 🚀 Projects
 
-### SQL Projects
-- [Sales analysis with SQL](#)
-- [Project 2: SQL Database Design](#)
-
 ### Power BI Projects
 - [HR Turnover Analysis](https://github.com/DaCruzEmanuel/PowerBI_HR-TurnoverAnalysis)
 - [Sales Analysis](#) 
+
+### SQL Projects
+- [Sales analysis with SQL](#)
+- [Project 2: SQL Database Design](#)
 
 ### Excel Projects
 - [Project 1: Budget Tracker](#) - Brief description of what the project is about.
