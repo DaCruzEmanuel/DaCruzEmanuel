@@ -31,7 +31,7 @@ Below, you can explore some of the projects I've worked on in each of these area
 
 
 ## 🚀 Certifications
-
+- [Microsoft Power BI Certification]()
 
 
 ## 📫 How to reach me
