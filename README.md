@@ -1,6 +1,6 @@
 # Hi, I'm Emanuel 👋
 
-I'm a **Data and Business Analyst** with expertise in leveraging tools like Excel, Power BI, SQL, VBA, Power Query, and Power Pivot to support data-driven decisions. I specialize in:
+I'm a **Data and BI Analyst** with expertise in leveraging tools like Excel, Power BI, SQL, VBA, Power Query, and Power Pivot to support data-driven decisions. I specialize in:
 
 - Extracting and combining data from various sources
 - Profiling, cleaning, and transforming data
