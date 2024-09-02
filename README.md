@@ -18,7 +18,7 @@ Below, you can explore some of the projects I've worked on in each of these area
 
 ### SQL Projects
 - [Sales analysis with SQL](#)
-- [Project 2: SQL Database Design](#)
+- [Luxury watch materials analysis](https://github.com/DaCruzEmanuel/SQL_Analysis_Luxury-Watch-materials/tree/main) - Showcase of some commonly used SQL queries in Data analytics projects.
 
 ### Excel Projects
 - [Project 1: (#) - Exploring Pivot tables and Visualizations in excel.
