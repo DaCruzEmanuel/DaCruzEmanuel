@@ -23,10 +23,10 @@ Below, you can explore some of the projects I've worked on in each of these area
 ### Excel Projects
 - [Project 1: (#) - Exploring Pivot tables and Visualizations in excel.
 - [Project 2: (#) - Power Query to combine tables and automatic clean data.
-- [Project 2: (#) - Automating repetitive tasks with macros/VBA
+- [Project 3: (#) - Automating repetitive tasks with macros/VBA
 
 ### Tableau Projects
-- [Luxury watches] - Materials analysis (https://public.tableau.com/app/profile/emanuel.cruz/viz/LuxuryWatchAnalysis_17193041960660/Dashboard1) - Analyzes of materials used in luxury watches.
+- [Luxury watches - Materials analysis](https://public.tableau.com/app/profile/emanuel.cruz/viz/LuxuryWatchAnalysis_17193041960660/Dashboard1) - Analysis of materials used in luxury watches.
 - [Cyclistic bike share company](https://public.tableau.com/app/profile/emanuel.cruz/viz/CyclisticProjest/Maindashboard) - Case study analysis
 
 
