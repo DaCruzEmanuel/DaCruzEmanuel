@@ -31,7 +31,8 @@ Below, you can explore some of the projects I've worked on in each of these area
 
 
 ## 🚀 Certifications
-- [Microsoft Power BI Certification]()
+- [Microsoft Power BI Certification](https://github.com/DaCruzEmanuel/Certifications/blob/main/Microsoft%20Power%20BI%20Certification.pdf)
+- [SQL - Advanced queries](https://github.com/DaCruzEmanuel/Certifications/blob/main/SQL%20%20Requ%C3%AAtes%20avanc%C3%A9es.pdf)
 
 
 ## 📫 How to reach me
