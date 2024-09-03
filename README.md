@@ -8,7 +8,7 @@ I'm a **Data and BI Analyst** with expertise in leveraging tools like Excel, SQL
 - Modeling data
 - Creating reports and visualizations for analysis
 
-Below, you can explore some of the projects I've worked on in each of these areas.
+Below are some of the recent projects I’ve worked on, showcasing the quality of my work. While I’ve completed several analysis projects for companies I've worked with, I’m unable to share those due to confidentiality.
 
 ## 🚀 Projects
 
