@@ -17,7 +17,7 @@ Below are some of the recent projects I’ve worked on, showcasing the quality o
 - [Sales Analysis](#) 
 
 ### SQL Projects
-- [MavenToys Sales analysis](https://github.com/DaCruzEmanuel/SQL_Sales-analysis)
+- [MavenToys Sales analysis](https://github.com/DaCruzEmanuel/SQL_Sales-analysis) - This project utilises SQL advanced queries to perform sales analysis.
 - [Luxury watch materials analysis](https://github.com/DaCruzEmanuel/SQL_Analysis_Luxury-Watch-materials/tree/main) - Showcase of some commonly used SQL queries in Data analytics projects.
 
 ### Excel Projects
