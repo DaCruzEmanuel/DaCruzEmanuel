@@ -21,8 +21,7 @@ Below are some of the recent projects I’ve worked on, showcasing the quality o
 - [Luxury watch materials analysis](https://github.com/DaCruzEmanuel/SQL_Analysis_Luxury-Watch-materials/tree/main) - Showcase of some commonly used SQL queries in Data analytics projects.
 
 ### Excel Projects
-- [Project 1: (#) - Exploring Pivot tables and Visualizations in excel.
-- [Project 2: (#) - Power Query to combine tables and automatic clean data.
+- [Maven Coffee Shop Sales Analysis](https://github.com/DaCruzEmanuel/ExcelAnalysis_MavenCoffeeShop_Sales_Analysis) - Power query, Pivot table and Data visualization (Dashboard)
 - [Project 3: (#) - Automating repetitive tasks with macros/VBA
 
 ### Tableau Projects
