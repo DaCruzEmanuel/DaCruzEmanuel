@@ -13,20 +13,20 @@ Below are some of the recent projects I’ve worked on, showcasing the quality o
 ## 🚀 Projects
 
 ### Power BI Projects
-- [HR Turnover Analysis](https://github.com/DaCruzEmanuel/PowerBI_HR-TurnoverAnalysis) - Utilises tools and techniques such as Power query, data modeling, DAX and Visualization to analyse HR Turnover.
-- [MavenToys Sales analysis](https://github.com/DaCruzEmanuel/PowerBI_Sales_Analysis/tree/main) - Utilises tools and techniques such as Power query, data modeling, DAX and Visualization to analyse Sales performance.
+- [HR Turnover Analysis](https://github.com/DaCruzEmanuel/PowerBI_HR-TurnoverAnalysis) - HR turnover analysis using Power Query, data modeling, DAX, and visualizations.
+- [MavenToys Sales analysis](https://github.com/DaCruzEmanuel/PowerBI_Sales_Analysis/tree/main) - Sales performance analysis with Power Query, data modeling, DAX, and visualizations.
 
 ### SQL Projects
-- [MavenToys Sales analysis](https://github.com/DaCruzEmanuel/SQL_Sales-analysis) - This project utilises SQL advanced queries to perform sales analysis.
-- [Luxury watch materials analysis](https://github.com/DaCruzEmanuel/SQL_Analysis_Luxury-Watch-materials/tree/main) - Showcase of some commonly used SQL queries in Data analytics projects.
+- [MavenToys Sales analysis](https://github.com/DaCruzEmanuel/SQL_Sales-analysis) - Sales analysis using advanced SQL queries.
+- [Luxury watch materials analysis](https://github.com/DaCruzEmanuel/SQL_Analysis_Luxury-Watch-materials/tree/main) - SQL queries showcase for data analysis projects.
 
 ### Excel Projects
-- [Maven Coffee Shop Sales Analysis](https://github.com/DaCruzEmanuel/ExcelAnalysis_MavenCoffeeShop_Sales_Analysis) - Power query, Pivot table and Data visualization (Dashboard)
-- [Project 3: (#) - Automating repetitive tasks with macros/VBA
+- [Maven Coffee Shop Sales Analysis](https://github.com/DaCruzEmanuel/ExcelAnalysis_MavenCoffeeShop_Sales_Analysis) - Analysis using Power Query, pivot tables, and dashboards.
+- [Project 3: (#) - Automating repetitive tasks with macros/VBA (**Coming soon...**)
 
 ### Tableau Projects
-- [Luxury watches - Materials analysis](https://public.tableau.com/app/profile/emanuel.cruz/viz/LuxuryWatchAnalysis_17193041960660/Dashboard1) - Analysis of materials used in luxury watches.
-- [Cyclistic bike share company](https://public.tableau.com/app/profile/emanuel.cruz/viz/CyclisticProjest/Maindashboard) - Case study analysis
+- [Luxury watches - Materials analysis](https://public.tableau.com/app/profile/emanuel.cruz/viz/LuxuryWatchAnalysis_17193041960660/Dashboard1) - Analysis of luxury watch materials.
+- [Cyclistic bike share company](https://public.tableau.com/app/profile/emanuel.cruz/viz/CyclisticProjest/Maindashboard) - Case study on bike-sharing data.
 
 
 ## 🎓 Certifications
