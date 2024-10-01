@@ -13,8 +13,8 @@ Below are some of the recent projects I’ve worked on, showcasing the quality o
 ## 🚀 Projects
 
 ### Power BI Projects
-- [HR Turnover Analysis](https://github.com/DaCruzEmanuel/PowerBI_HR-TurnoverAnalysis) - HR turnover analysis using Power Query, data modeling, DAX, and visualizations.
 - [MavenToys Sales analysis](https://github.com/DaCruzEmanuel/PowerBI_Sales_Analysis/tree/main) - Sales performance analysis with Power Query, data modeling, DAX, and visualizations.
+- [HR Turnover Analysis](https://github.com/DaCruzEmanuel/PowerBI_HR-TurnoverAnalysis) - HR turnover analysis using Power Query, data modeling, DAX, and visualizations.
 
 ### SQL Projects
 - [MavenToys Sales analysis](https://github.com/DaCruzEmanuel/SQL_Sales-analysis) - Sales analysis using advanced SQL queries.
